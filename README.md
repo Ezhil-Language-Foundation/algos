@@ -1,5 +1,6 @@
-Practical Algorithms and Data Structures
+'கணினி தரவமைப்புகளும் செயன்முறைகளும்'
 ---
+இந்த நூல் "Practical Algorithms and Data Structures" என்ற் ஆங்கி புகத்தகத்தின் தமிழாக்கமாகும்.
 
 [![Build Status](https://travis-ci.org/Bradfield/algos.svg?branch=master)](https://travis-ci.org/Bradfield/algos)
 
